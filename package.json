@@ -1,0 +1,15 @@
+{
+  "name": "tc3004b",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha tests/**/*.spec.js"
+  },
+  "devDependencies": {
+    "mocha": "^11.1.0",
+    "selenium-standalone": "^10.0.1",
+    "selenium-webdriver": "^4.29.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
